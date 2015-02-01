@@ -16,7 +16,7 @@
                 welcome page and also update the welcome-file setting in</i>
             <tt>web.xml</tt>.</p>
         
-        <h2>Amo mucho a la nena, hasta anonono culinchy</h2>
+        <h2> APP Publica de Ejemplo para el desarrollo industrial de Software - Distrito Tecnologico - Buenos Aires</h2>
         
     </body>
 </html>
